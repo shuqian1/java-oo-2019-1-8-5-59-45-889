@@ -1,6 +1,12 @@
 package practice09;
 
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.InputStream;
+import java.io.PrintStream;
 import java.util.HashSet;
+import java.util.Scanner;
+import java.util.logging.Logger;
 
 public class Klass {
     private Integer number = null;
